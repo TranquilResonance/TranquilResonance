@@ -7,3 +7,5 @@ Then run `jekyll serve` from inside the directory.
 A member of tranquil resonance must approve pull requests.
 
 If you have an issue installing gems due to write permissions, input the following option after the gem command: gem install anygem --user-install
+
+Windows 10: if 'jekyll serve' fail, install Node.js (https://nodejs.org/en/ version 8 works) will fix it.
