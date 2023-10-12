@@ -84,6 +84,11 @@ h1 {
     .Page {
       overflow-x: hidden;
     }
+    .Page-Body--vertical {
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+    }
     .Header > ul {
       // Note: this doesn't make submenu options available.
       flex-direction: column !important;
